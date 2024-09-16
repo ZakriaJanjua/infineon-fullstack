@@ -70,3 +70,5 @@ On the Teams page there will be 3 things shown to you.
 3. Bouts (Matches between your team and other teams)
 
 The strategies with which I am suggesting the team recommendations and with which I am deciding the bouts are detailed and will discuss them in the presentation.
+
+P.S: the env files and the secret variables have been pushed to github on purpose. I did not want to hassle you with adding the env files yourself so I let them push to github. Do not worry about them! :)
